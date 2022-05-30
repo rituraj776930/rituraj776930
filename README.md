@@ -7,7 +7,8 @@
  <h2 align="left">☕ Let's Connect</h2>
 
 
-<a href="https://www.linkedin.com/in/ritu-raj-singh-a91bb9176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ritu Raj" linkedin url" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/ritu-raj-singh-a91bb9176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ritu Raj linkedin url" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+ 
  
 
 <br/>
