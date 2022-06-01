@@ -4,6 +4,19 @@
 <h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.
 </h3>
 <br>
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Data Structures and Algorithms,React,Redux.**
+
+- 💬 Ask me about Web Development, Data Structure and Algorithms
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+
+- 📫 How to reach me **rrs984040@gmail.com**
+
+-For Resume <a href="https://drive.google.com/file/d/1v79_g6WK9q7PPb7Ep5hr7HlOZrLmHf3u/view?usp=sharing" target="_blank">Click here</a>
+
+- ⚡ Fun fact **I have keen interest in learning backend.**
  <h2 align="left">☕ Let's Connect</h2>
 
 
