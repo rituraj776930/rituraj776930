@@ -4,6 +4,8 @@
 <h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.
 </h3>
 <br>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms,React,Redux.**
