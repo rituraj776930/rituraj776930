@@ -1,7 +1,9 @@
 # Ritu Raj Singh
 <h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" width= "100%" height="50%"  /> 
 </br>Hii ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Ritu Raj Singh </h1>
-<h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.
+<h3 align="center">An aspiring full-stack developer specializing in MERN stack.Passionate
+about coding and learning new technologies.Looking forward to work in
+a product based company and scaling it to new heights.
 </h3>
 <br>
 
@@ -11,7 +13,7 @@
 
 - 💬 Ask me about Web Development, Data Structure and Algorithms
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ritu-raj-singh.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
 - 📫 How to reach me **rrs984040@gmail.com**
 - 🤝 For Resume <a href="https://drive.google.com/file/d/1HsotqwXrCfr6vlV7vZST9xuCH41Lt-QP/view?usp=sharing" target="_blank">Click here</a>
