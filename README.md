@@ -13,7 +13,7 @@ a product based company and scaling it to new heights.
 
 - 💬 Ask me about Web Development, Data Structure and Algorithms
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ritu-raj-singh.netlify.app)**
 
 - 📫 How to reach me **rrs984040@gmail.com**
 - 🤝 For Resume <a href="https://drive.google.com/file/d/1HsotqwXrCfr6vlV7vZST9xuCH41Lt-QP/view?usp=sharing" target="_blank">Click here</a>
