@@ -42,7 +42,8 @@ a product based company and scaling it to new heights.
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rituraj776930&show_icons=true&locale=en&layout=compact" alt="rituraj776930" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rituraj776930&show_icons=true&locale=en" alt="vivek8210" /></p>
+![Ritu Raj Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rituraj776930&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek8210&" alt="rituraj776930" /></p>
+
  
