@@ -40,9 +40,9 @@ a product based company and scaling it to new heights.
   <hr>
   
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek8210&show_icons=true&locale=en&layout=compact" alt="vivek8210" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rituraj776930&show_icons=true&locale=en&layout=compact" alt="rituraj776930" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek8210&show_icons=true&locale=en" alt="vivek8210" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rituraj776930&show_icons=true&locale=en" alt="vivek8210" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek8210&" alt="vivek8210" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek8210&" alt="rituraj776930" /></p>
  
